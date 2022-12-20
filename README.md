@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux, MongoDB**
 
-- 👨‍💻 All of my projects are available at [www.souparnashee.com](www.souparnashee.com)
+- 👨‍💻 All of my projects are available at [https://souparnashee.netlify.app/](https://souparnashee.netlify.app/)
 
 - 💬 Ask me about **React, HTML, CSS, Javascript**
 
