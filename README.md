@@ -1,4 +1,5 @@
-![banner (1)](https://user-images.githubusercontent.com/112250074/210390702-1a83b74c-7fb8-4438-81b0-65eb997ddb54.png)
+![banner (2)](https://user-images.githubusercontent.com/112250074/210391288-2818eeb9-e1eb-4a51-9eaf-c32907adfcc5.png)
+
 <h1 align="center">Hi 👋, I'm Souparno Shee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
