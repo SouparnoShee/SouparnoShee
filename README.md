@@ -1,16 +1,17 @@
 ![banner (2)](https://user-images.githubusercontent.com/112250074/210391288-2818eeb9-e1eb-4a51-9eaf-c32907adfcc5.png)
 
 <h1 align="center">Hi 👋, I'm Souparno Shee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from West Bengal, India</h3>
+<h3 align="center">Love to build useful web apps</h3>
 <img align="right" alt="Coding" width="400" src= "https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on **Library Management System(MERN Project)**
+- 🔭 I’m currently working on ***CODECANDY (UI Library, for using as well as uploading your own elements)***
 
-- 🌱 I’m currently learning **Redux, MongoDB**
+- 🌱 Upgrading new skills - **Typescript, React Native**
 
-- 👨‍💻 All of my projects are available at [https://souparnashee.netlify.app/](https://souparnashee.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://souparnashee.com/](https://souparnashee.com/)
 
-- 💬 Ask me about **React, HTML, CSS, Javascript**
+- 💬 Ask me about **React, NextJs, HTML, CSS, Javascript**
 
 - 📫 How to reach me **devsouparno@gmail.com**
 
